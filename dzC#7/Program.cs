@@ -105,7 +105,7 @@ Console.WriteLine(NumInArray(array, number));*/
 
 
 
-Console.WriteLine("введите количество строк");
+/*Console.WriteLine("введите количество строк");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите количество столбцов");
 int m = Convert.ToInt32(Console.ReadLine());
@@ -151,7 +151,7 @@ void PrintArray(int[,] array)
         }
         Console.WriteLine("");
     }
-}
+}*/
 
 
 

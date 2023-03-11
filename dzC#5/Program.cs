@@ -3,7 +3,7 @@
 
 [345, 897, 568, 234] -> 2*/
 
-Console.WriteLine("Введите размер массива");
+/*Console.WriteLine("Введите размер массива");
 int size = Convert.ToInt32(Console.ReadLine());
 int[] array = new int[size];
 FillArray(array);
@@ -37,7 +37,7 @@ void PrintArray(int[] array)
     Console.Write("]");
     Console.WriteLine();
 }
-
+*/
 
 /*Задача 36: Задайте одномерный массив, заполненный случайными числами. Найдите сумму элементов, стоящих на нечётных позициях.
 
